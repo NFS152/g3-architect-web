@@ -175,6 +175,12 @@ main{
     align-items: center;
     gap: 40px;
 }
+footer{
+    max-width: 1440px;
+    margin: 50px auto;
+    background-color: #f4c895;
+    text-align: center;
+}
 /* Responsive Styles for Banner */
 /* Mobile Devices */
 @media screen and (max-width:575px) {
